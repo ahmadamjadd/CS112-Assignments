@@ -4,6 +4,16 @@ This repository contains challenging assignments from the CS112 Object-Oriented 
 
 ---
 
+## Table of Contents
+1. [Assignment 1: Console-Based Car Racing Game](#assignment-1-console-based-car-racing-game)
+2. [Assignment 2: Strategic Five](#assignment-2-strategic-five)
+3. [Assignment 3: Infinitely Spinning Doughnut in Terminal](#assignment-3-infinitely-spinning-doughnut-in-terminal)
+4. [Assignment 4: Car and Engine Composition](#assignment-4-car-and-engine-composition)
+5. [Assignment 5: Custom String Class with Operator Overloading](#assignment-5-custom-string-class-with-operator-overloading)
+6. [Assignment 6: Sparse Polynomial Addition](#assignment-6-sparse-polynomial-addition)
+
+---
+
 ## Assignment 1: Console-Based Car Racing Game
 
 **Objective:**  
@@ -81,6 +91,12 @@ Implement sparse polynomial addition by reading coefficients from a file and per
 - Output the result to a file (`result_addition.txt`) with relevant details.
 - Display additional information: file name, number of polynomials, number of variables, non-zero values count, data structure used, and time taken for addition.
 - Avoid using built-in functions, implementing custom logic for reading, displaying, and adding polynomials.
+
+---
+
+## About the Repository
+
+These assignments demonstrate fundamental and advanced OOP principles in C++. Each assignment explores practical applications of OOP concepts such as structure usage, composition, class-based game development, custom data structures, and operator overloading, providing a comprehensive understanding of C++ and OOP.
 
 ---
 
