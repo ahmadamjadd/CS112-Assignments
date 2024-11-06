@@ -97,9 +97,3 @@ Implement sparse polynomial addition by reading coefficients from a file and per
 ## About the Repository
 
 These assignments demonstrate fundamental and advanced OOP principles in C++. Each assignment explores practical applications of OOP concepts such as structure usage, composition, class-based game development, custom data structures, and operator overloading, providing a comprehensive understanding of C++ and OOP.
-
----
-
-## About the Repository
-
-These assignments demonstrate fundamental and advanced OOP principles in C++. Each assignment explores practical applications of OOP concepts such as structure usage, composition, inheritance, class-based game development, custom data structures, and operator overloading, providing a comprehensive understanding of C++ and OOP.
